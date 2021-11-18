@@ -1,7 +1,6 @@
 package gtproject
 
 import (
-	"github.com/dougEfresh/gtoggl-api/test"
 	"testing"
 )
 

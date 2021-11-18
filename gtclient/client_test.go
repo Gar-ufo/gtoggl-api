@@ -1,7 +1,6 @@
 package gtclient
 
 import (
-	"github.com/dougEfresh/gtoggl-api/test"
 	"testing"
 )
 
