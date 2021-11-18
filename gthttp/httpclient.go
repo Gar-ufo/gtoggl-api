@@ -17,7 +17,7 @@ const (
 	DefaultAuthPassword       = "api_token"
 	DefaultMaxRetries         = 5
 	DefaultGzipEnabled        = false
-	DefaultUrl                = "https://www.toggl.com/api/v8"
+	DefaultUrl                = "https://api.track.toggl.com/api/v8"
 	DefaultVersion            = "v8"
 	SessionCookieName         = "__Host-timer-session"
 	defaultBucket             = "toggl"
