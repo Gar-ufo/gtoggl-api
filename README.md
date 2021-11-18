@@ -58,7 +58,7 @@ $ go test -v ./...
 
 ## Authors
 
-* **Douglas Chimento**  - [dougEfresh][me]
+* **Douglas Chimento**  - [Gar-ufo][me]
 
 ## License
 
@@ -70,10 +70,10 @@ This project is licensed under the Apache License - see the [LICENSE](LICENSE) f
 
 [doc-img]: https://godoc.org/github.com/Gar-ufo/gtoggl-api?status.svg
 [doc]: https://godoc.org/github.com/Gar-ufo/gtoggl-api
-[ci-img]: https://travis-ci.org/dougEfresh/gtoggl-api.svg?branch=master
-[ci]: https://travis-ci.org/dougEfresh/gtoggl-api
-[cov-img]: https://codecov.io/gh/dougEfresh/gtoggl-api/branch/master/graph/badge.svg
-[cov]: https://codecov.io/gh/dougEfresh/gtoggl-api
+[ci-img]: https://travis-ci.org/Gar-ufo/gtoggl-api.svg?branch=master
+[ci]: https://travis-ci.org/Gar-ufo/gtoggl-api
+[cov-img]: https://codecov.io/gh/Gar-ufo/gtoggl-api/branch/master/graph/badge.svg
+[cov]: https://codecov.io/gh/Gar-ufo/gtoggl-api
 [glide.lock]: https://github.com/uber-go/zap/blob/master/glide.lock
 [zap]: https://github.com/uber-go/zap
 [me]: https://github.com/Gar-ufo

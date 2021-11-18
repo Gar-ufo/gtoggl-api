@@ -4,8 +4,8 @@
 Package gclient provides access to toggl REST API.
 
 Example:
-       import "gopkg.in/dougEfresh/gtoggl.v8"
-       import "gopkg.in/dougEfresh/toggl-client.v8"
+       import "gopkg.in/Gar-ufo/gtoggl.v8"
+       import "gopkg.in/Gar-ufo/toggl-client.v8"
 
        func main() {
 	    thc, err := gtoggl.NewClient("token")
@@ -25,8 +25,8 @@ package gtogglapi
 /*
 
 Example:
-        import "gopkg.in/dougEfresh/gtoggl.v8"
-        import "gopkg.in/dougEfresh/toggl-timeentry.v8"
+        import "gopkg.in/Gar-ufo/gtoggl.v8"
+        import "gopkg.in/Gar-ufo/toggl-timeentry.v8"
 
         func main() {
 	    thc, err := gtoggl.NewClient("token")
@@ -46,8 +46,8 @@ Package gproject provides access to toggl REST API
 
 
 Example:
-       import "gopkg.in/dougEfresh/gtoggl.v8"
-       import "gopkg.in/dougEfresh/toggl-project.v8"
+       import "gopkg.in/Gar-ufo/gtoggl.v8"
+       import "gopkg.in/Gar-ufo/toggl-project.v8"
 
        func main() {
 	    thc, err := gtoggl.NewClient("token")
@@ -72,8 +72,8 @@ Package gtimeentry provides access to toggl REST API
 
 
 Example:
-       import "gopkg.in/dougEfresh/gtoggl.v8"
-       import "gopkg.in/dougEfresh/toggl-timeentry.v8"
+       import "gopkg.in/Gar-ufo/gtoggl.v8"
+       import "gopkg.in/Gar-ufo/toggl-timeentry.v8"
 
        func main() {
 	    thc, err := gtoggl.NewClient("token")
@@ -93,8 +93,8 @@ Package guser provides access to toggl REST API
 
 
 Example:
-       import "gopkg.in/dougEfresh/gtoggl.v8"
-       import "gopkg.in/dougEfresh/toggl-user.v8"
+       import "gopkg.in/Gar-ufo/gtoggl.v8"
+       import "gopkg.in/Gar-ufo/toggl-user.v8"
 
        func main() {
 	    thc, err := gtoggl.NewClient("token")
@@ -114,8 +114,8 @@ Package gworkspace provides access to toggl REST API
 
 
 Example:
-       import "gopkg.in/dougEfresh/gtoggl.v8"
-       import "gopkg.in/dougEfresh/toggl-workspace.v8"
+       import "gopkg.in/Gar-ufo/gtoggl.v8"
+       import "gopkg.in/Gar-ufo/toggl-workspace.v8"
 
        func main() {
 	    thc, err := gtoggl.NewClient("token")
